@@ -16,26 +16,6 @@ Installation
 
 Credits
 
-Here is a professional, portfolio-ready README.md file based on your proposal document. I have translated the content to English and adapted the narrative to feature the Warrior character as requested.
-
-⚔️ Shadow Runner
-Shadow Runner is a 2D action-platformer set in a dark, mysterious world. The player controls a trapped warrior who must escape a ruined fortress using precise movement and reflexes.
-
-Designed for casual players who enjoy retro aesthetics and skill-based challenges, the game offers short, intense sessions (5–10 minutes per level) where the goal is not just to survive, but to master the environment.
-
-📖 Table of Contents
-About the Game
-
-Key Features
-
-Controls
-
-Technical Overview
-
-Installation
-
-Credits
-
 🎮 About the Game
 The Story
 You are a warrior trapped within the depths of an ancestral fortress. To escape, you must navigate through crumbling dungeons, ruined gardens, and perilous towers. Along the way, you must collect energy fragments from ancient artifacts to unlock the path forward while surviving deadly traps and patrolling enemies.
