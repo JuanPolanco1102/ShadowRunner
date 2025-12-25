@@ -73,7 +73,7 @@ To play the game or view the source code:
 
 Clone the repository:
 
-- git clone https://github.com/YourUsername/ShadowRunner.git
+- git clone https://github.com/JuanPolanco1102/ShadowRunner.git
 
 - Open in Unity:
 
